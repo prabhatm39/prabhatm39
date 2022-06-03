@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Shopbaop**
 
-- 👨‍💻 My Portfolio:  [https://prabhat-mishra-portfolio.netlify.app](https://musical-bombolone-55d5c3.netlify.app)
+- 👨‍💻 My Portfolio:  [https://prabhat-mishra-portfolio.netlify.app](https://prabhat-mishra-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, DSA.**
 
