@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chakra UI**
 
-- 🌱 I’m currently learning **React.js, Node.js.**
+- 🌱 I’m currently learning **typeScript react**
 
 - 👯 I’m looking to collaborate on **Shopbaop**
 
