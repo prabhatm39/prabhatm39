@@ -11,11 +11,11 @@
 
 - 👨‍💻 My Portfolio:  https://prabhatmishraportfolio.netlify.app
 
-- 💬 Ask me about **JavaScript, HTML, CSS, DSA.**
+- 💬 Ask me about **JavaScript, HTML, CSS, DSA, React, Redux, Node.js, mongodb.**
 
 - 📫 How to reach me **mishraprabhat646@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sT5jS91dHVYsbo3mksLxYoVRJUzpstxm/view?usp=sharing](https://drive.google.com/file/d/1sT5jS91dHVYsbo3mksLxYoVRJUzpstxm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xL2aPivQ8nDIMxlbd_Af4jjbNyl8hVuf/view?usp=sharing]
 
 - ⚡ Fun fact **I think I am funny.**
 
