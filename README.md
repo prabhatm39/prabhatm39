@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Shopbaop**
 
-- 👨‍💻 My Portfolio:  https://prabhatmishraportfolio.netlify.app
+- 👨‍💻 My Portfolio:  https://prabhatpf.netlify.app
 
-- 💬 Ask me about **JavaScript, HTML, CSS, DSA, React, Redux, Node.js, mongodb.**
+- 💬 Ask me about **JavaScript, HTML, CSS, DSA, React, Redux, Node.js, Express, mongodb.**
 
 - 📫 How to reach me **mishraprabhat646@gmail.com**
 
